@@ -30,7 +30,7 @@ div.logo {
 	text-align: center;
 }
 img.logito {
-	width: 75%;
+	width: 100%;
 	height: 50px;
 }
 section {
@@ -38,7 +38,7 @@ section {
 }
 @media screen and (min-width: 790px){
 	img.logito {
-		width: 30%;
+		width: 75%;
 		height: 50px;
 	}
 }
