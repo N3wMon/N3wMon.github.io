@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html, body {
+	overflow: hidden;
+}
+a {
+	text-decoration: none;
+	color: #7c7cae;
+	letter-spacing: 1px;
+}
+a:hover {
+	color: #d3d3d3;
+}
+body {
+
+	background: black;
+	font-family: 'Aclonica', sans-serif;
+	color: #8c8cae;
+}
+header {
+	text-align: center;
+	margin: 30px 0;
+}
+nav.menu {
+	text-align: center;
+}
+div.logo {
+	text-align: center;
+}
+img.logito {
+	width: 75%;
+	height: 50px;
+}
+section {
+	text-align: center;
+}
+@media screen and (min-width: 790px){
+	img.logito {
+		width: 30%;
+		height: 50px;
+	}
+}
